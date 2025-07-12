@@ -27,4 +27,4 @@ jobs:
         pip install --upgrade pip
 
     - name: 🚀 Run app
-      run: python app.py
+      run: python main.py
